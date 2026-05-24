@@ -1,4 +1,4 @@
-# 🏋️ AI Fitness Tracker App
+# AI Fitness Tracker App
 
 A full-stack AI-powered fitness application that helps users set fitness goals, track calories, log workouts, and analyze food images using Google Gemini AI.
 
