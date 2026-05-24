@@ -1,5 +1,4 @@
-import { Home, User, Utensils } from "lucide-react"
-import { Activity } from "react"
+import { Home, User, Utensils, Activity } from "lucide-react"
 import { NavLink } from "react-router-dom"
 
 
